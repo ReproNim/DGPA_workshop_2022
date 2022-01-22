@@ -13,10 +13,4 @@ All workshop materials will be provided within the [Jupyter Book](https://jupyte
 
 ## Advanced concepts in reproducible neuroimaging and specialized analyses
 
-
-![logo](https://media4.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif?cid=ecf05e47driaof19nl7irhimygzitnzv7ce6vkl6hua50hg5&rid=giphy.gif&ct=g)\
-<sub><sup><sub><sup>https://media4.giphy.com/media/3orif0rjs49gsPWg1y/giphy.gif?cid=ecf05e47driaof19nl7irhimygzitnzv7ce6vkl6hua50hg5&rid=giphy.gif&ct=g
-</sup></sub></sup></sub>
-
-
 ## Instructors

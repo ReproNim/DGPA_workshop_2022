@@ -6,7 +6,7 @@ includehidden: true
 titlesonly: true
 ---
 ```
-<img src="https://nipy.org/img/nipy.svg" alt="workshop logo" width="300" style="margin:0 0 0 0"/>
+<img src="https://avatars.githubusercontent.com/u/18501735?s=200&v=4" alt="workshop logo" width="300" style="margin:0 0 0 0"/>
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/repronim/dgpa_workshop/HEAD)
 [![GitHub size](https://github-size-badge.herokuapp.com/repronim/dgpa_workshop.svg)](https://github.com/repronim/dgpa_workshop/archive/master.zip)
