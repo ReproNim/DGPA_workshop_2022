@@ -8,10 +8,10 @@ titlesonly: true
 ```
 <img src="https://avatars.githubusercontent.com/u/18501735?s=200&v=4" alt="workshop logo" width="300" style="margin:0 0 0 0"/>
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/repronim/dgpa_workshop/HEAD)
-[![GitHub size](https://github-size-badge.herokuapp.com/repronim/dgpa_workshop.svg)](https://github.com/repronim/dgpa_workshop/archive/master.zip)
-[![Docker Hub](https://img.shields.io/docker/pulls/repronim/dgpa_workshop)](https://hub.docker.com/r/repronim/dgpa_workshop/)
-[![License](https://img.shields.io/github/license/repronim/dgpa_workshop)](https://github.com/repronim/dgpa_workshop)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/repronim/DGPA_workshop_2022/HEAD)
+[![GitHub size](https://github-size-badge.herokuapp.com/repronim/DGPA_workshop_2022.svg)](https://github.com/repronim/DGPA_workshop_2022/archive/master.zip)
+[![Docker Hub](https://img.shields.io/docker/pulls/repronim/DGPA_workshop_2022)](https://hub.docker.com/r/repronim/DGPA_workshop_2022/)
+[![License](https://img.shields.io/github/license/repronim/DGPA_workshop_2022)](https://github.com/repronim/DGPA_workshop_2022)
 
 # Welcome!
 
