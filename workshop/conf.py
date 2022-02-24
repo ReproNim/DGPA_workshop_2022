@@ -54,8 +54,8 @@ html_title = ""
 html_theme = "sphinx_book_theme"
 html_logo = "_static/repronim_logo.png"
 html_theme_options = {
-    "github_url": "https://github.com/repronim/dgpa_workshop",
-    "repository_url": "https://github.com/repronim/dgpa_workshop",
+    "github_url": "https://github.com/repronim/DGPA_workshop_2022",
+    "repository_url": "https://github.com/repronim/DGPA_workshop_2022",
     "repository_branch": "main",
     "use_edit_page_button": True,
     "path_to_docs": "docs/",
