@@ -25,37 +25,41 @@ These pages are currently under construction and will be updated continuously.
 Please visit this page again in the next few weeks for further information.
 ````
 
-# Reproducible Neuroimaging - a ReproNim - DGPA workshop
+# Reproducible Neuroimaging: a ReproNim - DGPA workshop
   
 
 You can checkout the respective sections:
 
-* [An overview]()
+* [An overview](http://www.repronim.org/DGPA_workshop_2022/overview.html)
 
    What's this workshop about and how is it organized?
 
-* [Setup]()
+* [Setup](http://www.repronim.org/DGPA_workshop_2022/setup.html)
 
    How are things implemented and supposed to work?
 
-* [General outline]()
+* [General outline](http://www.repronim.org/DGPA_workshop_2022/outline.html)
 
    What are the specific topics and aspects taught?
 
-* [Basics in reproducible neuroimagig ]()
+* [Basics in reproducible neuroimagig ](http://www.repronim.org/DGPA_workshop_2022/basics.html)
 
-* [Advanced concepts in reproducible neuroimaging]()
+   What are the basics one should know to conduct `reproducible neuroimaging`?
 
-* [Code of Conduct]()
+* [Advanced concepts in reproducible neuroimaging](http://www.repronim.org/DGPA_workshop_2022/advanced.html)
+
+   Once the basics are clear, are there further, more advanced concepts one can utilize regarding `reproducible neuroimaging`?
+
+* [Code of Conduct](http://www.repronim.org/DGPA_workshop_2022/CoC.html)
 
    Necessities for creating an open, fair, safe and inclusive learning
    experience.
 
-# I've got a question!
+# I've got a question! 🙋🏼‍♀️ ⁉️
 
 In case you have any questions or difficulties going through the workshop, please don’t hesitate a single second to get in touch with us. A great way to do this is to [open an issue](https://github.com/repronim/dgpa_workshop/issues) on the
 [GitHub site of the Workshop](https://github.com/repronim/dgpa_workshop) (also possible via the GitHub button at the top of the pages). We would also highly appreciate and value every feedback or idea or you might have (via [issues](https://github.com/repronim/dgpa_workshop) or [hypothes.is annotation feature](https://web.hypothes.is/) on the right).
 
-## Acknowledgements
+## 🙏  Acknowledgements
 
-This workshop was initialized by the DGPA and organized by the DGPA and ReproNim.
+This workshop was initialized by the [DGPA]() and organized by the [DGPA])() and [ReproNim]().
