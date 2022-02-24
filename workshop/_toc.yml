@@ -5,5 +5,20 @@ chapters:
 - file: overview
 - file: setup
 - file: outline
+- file: basics
+  sections:
+  - file: basics/introduction.md
+  - file: basics/reproducible_neuroimaging.md
+  - file: basics/version_control_code.md
+  - file: basics/virtualization.md
+  - file: basics/standardization.md
+- file: advanced
+  sections:
+  - file: advanced/recap.md
+  - file: advanced/version_control_data.md
+  - file: advanced/meta_data.md
+  - file: advanced/workflow.md
+  - file: advanced/wrap_up.md
+  - file: advanced/social.md
 - file: break
 - file: CoC
