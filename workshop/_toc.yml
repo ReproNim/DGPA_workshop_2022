@@ -5,6 +5,24 @@ chapters:
 - file: overview
 - file: setup
 - file: outline
+- file: prerequisites
+  sections:
+    - file: prerequisites/intro_to_shell.ipynb
+    - file: prerequisites/intro_jupyter.ipynb
+    - file: prerequisites/intro_python.ipynb
+    - file: prerequisites/python_numpy.ipynb
+    - file: prerequisites/python_scipy.ipynb
+    - file: prerequisites/python_scikit.ipynb
+    - file: prerequisites/python_visualization_for_data.ipynb
+    - file: prerequisites/image_manipulation_nibabel.ipynb
+    - file: prerequisites/image_manipulation_nilearn.ipynb
+    - file: prerequisites/statistical_analyses_MRI.ipynb
+    - file: prerequisites/functional_connectivity.ipynb
+    - file: prerequisites/diffusion_imaging.ipynb
+    - file: prerequisites/machine_learning_preparation.ipynb
+    - file: prerequisites/machine_learning_nilearn.ipynb
+    - file: prerequisites/machine_learning_keras.ipynb
+    - file: prerequisites/Predicting_age_with_machine_learning.ipynb
 - file: basics
   sections:
   - file: basics/introduction.md
