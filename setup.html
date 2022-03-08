@@ -119,11 +119,118 @@
   </a>
  </li>
  <li class="toctree-l1 has-children">
-  <a class="reference internal" href="basics.html">
-   Basics of reproducible neuroimaging
+  <a class="reference internal" href="prerequisites.html">
+   Course prerequisites &amp; add-ons
   </a>
   <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
   <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="prerequisites/intro_to_shell.html">
+     Introduction to the (unix) command line: bash
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="prerequisites/intro_jupyter.html">
+     Introduction to the jupyter ecosystem &amp; notebooks
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="prerequisites/intro_python.html">
+     Introduction to Python
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="prerequisites/python_numpy.html">
+     Introduction to NumPy
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="prerequisites/python_scipy.html">
+     Introduction to SciPy
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="prerequisites/python_scikit.html">
+     Introduction to scikit-learn &amp; scikit-image
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="prerequisites/python_visualization_for_data.html">
+     Visualization of different data types with python
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="prerequisites/image_manipulation_nibabel.html">
+     Using Python for neuroimaging data - NiBabel
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="prerequisites/image_manipulation_nilearn.html">
+     Using Python for neuroimaging data - Nilearn
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="prerequisites/statistical_analyses_MRI.html">
+     Nilearn GLM: statistical analyses of MRI in Python
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="prerequisites/functional_connectivity.html">
+     Functional connectivity and resting state
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="prerequisites/diffusion_imaging.html">
+     Structural connectivity and diffusion imaging
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="prerequisites/machine_learning_preparation.html">
+     Preparation Machine Learning
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="prerequisites/machine_learning_nilearn.html">
+     MVPA and Searchlight with
+     <code class="docutils literal notranslate">
+      <span class="pre">
+       nilearn
+      </span>
+     </code>
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="prerequisites/machine_learning_keras.html">
+     <code class="docutils literal notranslate">
+      <span class="pre">
+       TensorFlow
+      </span>
+     </code>
+     /
+     <code class="docutils literal notranslate">
+      <span class="pre">
+       Keras
+      </span>
+     </code>
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="prerequisites/Predicting_age_with_machine_learning.html">
+     Machine learning to predict age from rs-fmri
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="basics.html">
+   Basics of reproducible neuroimaging
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -159,8 +266,8 @@
   <a class="reference internal" href="advanced.html">
    Advanced concepts in reproducible neuroimaging
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
-  <label for="toctree-checkbox-2">
+  <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
+  <label for="toctree-checkbox-3">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -487,8 +594,8 @@ You <em>must</em> have <code class="docutils literal notranslate"><span class="p
 <h3>OS-specific installation instructions<a class="headerlink" href="#os-specific-installation-instructions" title="Permalink to this headline">¶</a></h3>
 <p>Select the tab that corresponds to your operating system and follow the instructions therein.</p>
 <div class="tabbed-set docutils">
-<input checked="checked" id="fe479071-20d2-43e2-8b2b-8cb84c9e92af" name="e316c3f7-6ab8-41fb-8999-7bc951fc5724" type="radio">
-</input><label class="tabbed-label" for="fe479071-20d2-43e2-8b2b-8cb84c9e92af">
+<input checked="checked" id="02fd4419-6e35-4256-b73e-3ef58adca860" name="e1337a9b-4353-41f9-bd78-c05ab60b592b" type="radio">
+</input><label class="tabbed-label" for="02fd4419-6e35-4256-b73e-3ef58adca860">
 Windows</label><div class="tabbed-content docutils">
 <p><strong>Windows Subsystem for Linux (WSL)</strong></p>
 <ol>
@@ -665,8 +772,8 @@ If you are having problems running <code class="docutils literal notranslate"><s
 <p>(The above step-by-step instructions are distilled from <a class="reference external" href="https://docs.docker.com/toolbox/toolbox_install_windows/">here</a> and <a class="reference external" href="https://medium.com/&#64;joaoh82/setting-up-docker-toolbox-for-windows-home-10-and-wsl-to-work-perfectly-2fd34ed41d51">here</a>.
 If you have questions during the installation procedure please check those links for potential answers!)</p>
 </div>
-<input id="9adc09d5-0492-4cab-887b-06332b664e96" name="e316c3f7-6ab8-41fb-8999-7bc951fc5724" type="radio">
-</input><label class="tabbed-label" for="9adc09d5-0492-4cab-887b-06332b664e96">
+<input id="a60f0d02-e97a-4010-9e02-3c740962de01" name="e1337a9b-4353-41f9-bd78-c05ab60b592b" type="radio">
+</input><label class="tabbed-label" for="a60f0d02-e97a-4010-9e02-3c740962de01">
 Linux</label><div class="tabbed-content docutils">
 <p><strong>Bash shell</strong></p>
 <p>You already have it!
@@ -746,8 +853,8 @@ You only need to do the “Manage Docker as a non-root user” and “Configure 
 A brief introductory message should be printed to the screen.</p></li>
 </ol>
 </div>
-<input id="3adac8c0-f802-49f4-a262-f7e24ec839d2" name="e316c3f7-6ab8-41fb-8999-7bc951fc5724" type="radio">
-</input><label class="tabbed-label" for="3adac8c0-f802-49f4-a262-f7e24ec839d2">
+<input id="2eef3092-9955-4cbd-a65b-b54c78522b0f" name="e1337a9b-4353-41f9-bd78-c05ab60b592b" type="radio">
+</input><label class="tabbed-label" for="2eef3092-9955-4cbd-a65b-b54c78522b0f">
 MacOs</label><div class="tabbed-content docutils">
 <p><strong>Bash shell</strong></p>
 <p>You already have it!
@@ -880,8 +987,8 @@ If you followed these instructions step-by-step and cannot resolve the issue ple
 <p>Now that you have installed the required software (or not) to follow the workshop, it’s time to gather the respective
 materials. Please use the <code class="docutils literal notranslate"><span class="pre">tab</span></code> matching your setup.</p>
 <div class="tabbed-set docutils">
-<input checked="checked" id="c4630d74-7065-4ba4-80bc-89e78fedb8b6" name="8e1e89d0-a1e9-4333-95bd-ade55d959b23" type="radio">
-</input><label class="tabbed-label" for="c4630d74-7065-4ba4-80bc-89e78fedb8b6">
+<input checked="checked" id="a394f4e6-829d-4f1b-a668-18b2de8b8637" name="4a21590d-c4c6-4d9b-be7f-7a5a456fd607" type="radio">
+</input><label class="tabbed-label" for="a394f4e6-829d-4f1b-a668-18b2de8b8637">
 Docker</label><div class="tabbed-content docutils">
 <p><img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" alt="docker logo" width="300"/><br />
 <sub><sup><sub><sup><a class="reference external" href="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png">https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png</a></sup></sub></sup></sub></p>
@@ -952,8 +1059,8 @@ docker rm $CONTAINER_ID
 </pre></div>
 </div>
 </div>
-<input id="ec5e6e1f-4b69-48a4-8a7d-30b5f0f09b9c" name="8e1e89d0-a1e9-4333-95bd-ade55d959b23" type="radio">
-</input><label class="tabbed-label" for="ec5e6e1f-4b69-48a4-8a7d-30b5f0f09b9c">
+<input id="878d0800-064b-4865-9781-7daa050640b5" name="4a21590d-c4c6-4d9b-be7f-7a5a456fd607" type="radio">
+</input><label class="tabbed-label" for="878d0800-064b-4865-9781-7daa050640b5">
 Conda</label><div class="tabbed-content docutils">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg" alt="conda logo" width="300"/><br />
 <sub><sup><sub><sup><a class="reference external" href="https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg">https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg</a></sup></sub></sup></sub></p>
@@ -969,8 +1076,8 @@ Conda</label><div class="tabbed-content docutils">
 <li><p>Finally, via the <code class="docutils literal notranslate"><span class="pre">terminal</span></code>, move to the folder where you’ve put all the unzipped content of this workshop, e.g. with the command <code class="docutils literal notranslate"><span class="pre">cd</span> <span class="pre">~/Desktop/dgpa_workshop</span></code> and run the command <code class="docutils literal notranslate"><span class="pre">jupyter</span> <span class="pre">notebook</span></code>.</p></li>
 </ol>
 </div>
-<input id="198e9ab7-ce82-4b35-9e74-59af2d7d0998" name="8e1e89d0-a1e9-4333-95bd-ade55d959b23" type="radio">
-</input><label class="tabbed-label" for="198e9ab7-ce82-4b35-9e74-59af2d7d0998">
+<input id="f1245569-27c0-424e-b340-792a68bb971e" name="4a21590d-c4c6-4d9b-be7f-7a5a456fd607" type="radio">
+</input><label class="tabbed-label" for="f1245569-27c0-424e-b340-792a68bb971e">
 Mybinder</label><div class="tabbed-content docutils">
 <p><img src="https://mybinder.org/static/logo.svg?v=fe52c40adc69454ba7536393f76ebd715e5fb75f5feafe16a27c47483eabf3311c14ed9fda905c49915d6dbf369ae68fb855a40dd05489a7b9542a9ee532e92b" alt="binder logo" width="300"/><br />
 <sub><sup><sub><sup><a class="reference external" href="https://mybinder.org/static/logo.svg?v=fe52c40adc69454ba7536393f76ebd715e5fb75f5feafe16a27c47483eabf3311c14ed9fda905c49915d6dbf369ae68fb855a40dd05489a7b9542a9ee532e92b">https://mybinder.org/static/logo.svg?v=fe52c40adc69454ba7536393f76ebd715e5fb75f5feafe16a27c47483eabf3311c14ed9fda905c49915d6dbf369ae68fb855a40dd05489a7b9542a9ee532e92b</a></sup></sub></sup></sub></p>
