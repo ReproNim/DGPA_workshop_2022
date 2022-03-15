@@ -1,16 +1,14 @@
 # Setup for the workshop
 
-There are four ways how you can follow this workshop:
+There are three ways how you can follow this workshop:
 
-1. Via `Docker` (recommended): Full workshop experience, interactive, with all software dependencies.
-2. Via `Conda` (Python): Almost full workshop experience, interactive, with only `Python` based software dependencies.
-3. Via `Mybinder`: Full workshop experience, interactive and online, with restricted computational power.
+1. Full install (recommended): Full workshop experience, interactive, with all software dependencies.
+2. Partial install (ok if the only possible options): Almost full workshop experience, interactive, with only some contents as "just watch".
+3. No install/passive (not recommended): semi workshop experience and not interactive, with all content being "just watch".
 
-While option 3. is nice and easy to follow in an interactive manner and option 4. might work for a quick overview, we don't recommended either of them as getting `Docker` and `Python` to work
-reliably on your machine is going to be very beneficial. This holds true for the workshop and especially beyond. Via installing these tools, you will be equipped to basically continue right
+While option 2. is nice and easy to follow in an interactive manner and option 3. might work for a quick overview, we don't recommended either of them as getting `Docker`, `git`, etc. to work reliably on your machine is going to be very beneficial. This holds true for the workshop and especially beyond. Via installing these tools, you will be equipped to basically continue right
 away and start using them with a focus on reproducible neuroimaging in your everyday research workflow. Having that in mind and integrating other tools/resources focusing open and reproducible (neuro-/data) science, we
-generated a rather comprehensive set of install instructions below. While not all of them might be totally necessary for the workshop, they all will help you a great deal going further and 
-are especially useful/needed given we have to hold the workshop virtually due to the COVID-19 pandemic.  
+generated a rather comprehensive set of install instructions below. While not all of them might be totally necessary for the workshop, they all will help you a great deal going further and are especially useful/needed given we have to hold the workshop virtually due to the COVID-19 pandemic.  
 
 Don't worry, you got this!
 
@@ -33,7 +31,7 @@ If you foresee any of these being a problem please reach out to one of the instr
 To get the most out of our course, we ask that you arrive with the following software already installed:
 
 - A command-line shell: `Bash`
-- A version control system: `Git`
+- A version control system: `Git` & `DataLad`
 - A remote-capable text editor: `VSCode`
 - `Python 3` via `Miniconda`
 - A virtualization system: `Docker`
@@ -91,6 +89,10 @@ You already have it, now that you’ve installed the WSL!
 **Git**
 
 You already have it, now that you’ve installed the WSL!
+
+**DataLad**
+
+Please follow the [fantastic install instructions of the `DataLad handbook`](http://handbook.datalad.org/en/latest/intro/installation.html#installation-and-configuration). 
 
 **VSCode**
 
@@ -248,6 +250,10 @@ To check whether this is necessary, follow these steps:
 You may already have it; try typing `sudo apt-get install git` (Ubuntu, Debian) or `sudo yum install git` (Fedora) inside the `terminal`.
 If you are prompted to install it follow the instructions on-screen to do so.
 
+**DataLad**
+
+Please follow the [fantastic install instructions of the `DataLad handbook`](http://handbook.datalad.org/en/latest/intro/installation.html#installation-and-configuration).
+
 **VSCode**
 
 1. Go to https://code.visualstudio.com/ and click the download button for either the .deb (`Ubuntu`, `Debian`) or the .rpm (`Fedora`, `CentOS`) file.
@@ -330,6 +336,10 @@ If you do not see something like “git version X.XX.X” printed out, then foll
 1. Follow [this link](https://sourceforge.net/projects/git-osx-installer/files/git-2.23.0-intel-universal-mavericks.dmg/download?use_mirror=autoselect) to automatically download an installer.
 1. Double click the downloaded file (`git-2.23.0-intel-universal-mavericks.dmg`) and then double click the `git-2.23.0-intel-universal-mavericks.pkg` icon inside the dmg that is opened.
 1. Follow the on-screen instructions to install the package.
+
+**DataLad**
+
+Please follow the [fantastic install instructions of the `DataLad handbook`](http://handbook.datalad.org/en/latest/intro/installation.html#installation-and-configuration).
 
 **VSCode**
 

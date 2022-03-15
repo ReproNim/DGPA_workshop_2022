@@ -143,58 +143,70 @@
      Introduction to Python
     </a>
    </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="add-ons.html">
+   Course add-ons
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
    <li class="toctree-l2">
-    <a class="reference internal" href="prerequisites/python_numpy.html">
+    <a class="reference internal" href="add-ons/python_numpy.html">
      Introduction to NumPy
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="prerequisites/python_scipy.html">
+    <a class="reference internal" href="add-ons/python_scipy.html">
      Introduction to SciPy
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="prerequisites/python_scikit.html">
+    <a class="reference internal" href="add-ons/python_scikit.html">
      Introduction to scikit-learn &amp; scikit-image
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="prerequisites/python_visualization_for_data.html">
+    <a class="reference internal" href="add-ons/python_visualization_for_data.html">
      Visualization of different data types with python
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="prerequisites/image_manipulation_nibabel.html">
+    <a class="reference internal" href="add-ons/image_manipulation_nibabel.html">
      Using Python for neuroimaging data - NiBabel
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="prerequisites/image_manipulation_nilearn.html">
+    <a class="reference internal" href="add-ons/image_manipulation_nilearn.html">
      Using Python for neuroimaging data - Nilearn
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="prerequisites/statistical_analyses_MRI.html">
+    <a class="reference internal" href="add-ons/statistical_analyses_MRI.html">
      Nilearn GLM: statistical analyses of MRI in Python
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="prerequisites/functional_connectivity.html">
+    <a class="reference internal" href="add-ons/functional_connectivity.html">
      Functional connectivity and resting state
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="prerequisites/diffusion_imaging.html">
+    <a class="reference internal" href="add-ons/diffusion_imaging.html">
      Structural connectivity and diffusion imaging
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="prerequisites/machine_learning_preparation.html">
+    <a class="reference internal" href="add-ons/machine_learning_preparation.html">
      Preparation Machine Learning
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="prerequisites/machine_learning_nilearn.html">
+    <a class="reference internal" href="add-ons/machine_learning_nilearn.html">
      MVPA and Searchlight with
      <code class="docutils literal notranslate">
       <span class="pre">
@@ -204,7 +216,7 @@
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="prerequisites/machine_learning_keras.html">
+    <a class="reference internal" href="add-ons/machine_learning_keras.html">
      <code class="docutils literal notranslate">
       <span class="pre">
        TensorFlow
@@ -219,7 +231,7 @@
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="prerequisites/Predicting_age_with_machine_learning.html">
+    <a class="reference internal" href="add-ons/Predicting_age_with_machine_learning.html">
      Machine learning to predict age from rs-fmri
     </a>
    </li>
@@ -229,8 +241,8 @@
   <a class="reference internal" href="basics.html">
    Basics of reproducible neuroimaging
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
-  <label for="toctree-checkbox-2">
+  <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
+  <label for="toctree-checkbox-3">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -266,8 +278,8 @@
   <a class="reference internal" href="advanced.html">
    Advanced concepts in reproducible neuroimaging
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
-  <label for="toctree-checkbox-3">
+  <input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/>
+  <label for="toctree-checkbox-4">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -538,17 +550,15 @@
                 
   <div class="section" id="setup-for-the-workshop">
 <h1>Setup for the workshop<a class="headerlink" href="#setup-for-the-workshop" title="Permalink to this headline">¶</a></h1>
-<p>There are four ways how you can follow this workshop:</p>
+<p>There are three ways how you can follow this workshop:</p>
 <ol class="simple">
-<li><p>Via <code class="docutils literal notranslate"><span class="pre">Docker</span></code> (recommended): Full workshop experience, interactive, with all software dependencies.</p></li>
-<li><p>Via <code class="docutils literal notranslate"><span class="pre">Conda</span></code> (Python): Almost full workshop experience, interactive, with only <code class="docutils literal notranslate"><span class="pre">Python</span></code> based software dependencies.</p></li>
-<li><p>Via <code class="docutils literal notranslate"><span class="pre">Mybinder</span></code>: Full workshop experience, interactive and online, with restricted computational power.</p></li>
+<li><p>Full install (recommended): Full workshop experience, interactive, with all software dependencies.</p></li>
+<li><p>Partial install (ok if the only possible options): Almost full workshop experience, interactive, with only some contents as “just watch”.</p></li>
+<li><p>No install/passive (not recommended): semi workshop experience and not interactive, with all content being “just watch”.</p></li>
 </ol>
-<p>While option 3. is nice and easy to follow in an interactive manner and option 4. might work for a quick overview, we don’t recommended either of them as getting <code class="docutils literal notranslate"><span class="pre">Docker</span></code> and <code class="docutils literal notranslate"><span class="pre">Python</span></code> to work
-reliably on your machine is going to be very beneficial. This holds true for the workshop and especially beyond. Via installing these tools, you will be equipped to basically continue right
+<p>While option 2. is nice and easy to follow in an interactive manner and option 3. might work for a quick overview, we don’t recommended either of them as getting <code class="docutils literal notranslate"><span class="pre">Docker</span></code>, <code class="docutils literal notranslate"><span class="pre">git</span></code>, etc. to work reliably on your machine is going to be very beneficial. This holds true for the workshop and especially beyond. Via installing these tools, you will be equipped to basically continue right
 away and start using them with a focus on reproducible neuroimaging in your everyday research workflow. Having that in mind and integrating other tools/resources focusing open and reproducible (neuro-/data) science, we
-generated a rather comprehensive set of install instructions below. While not all of them might be totally necessary for the workshop, they all will help you a great deal going further and
-are especially useful/needed given we have to hold the workshop virtually due to the COVID-19 pandemic.</p>
+generated a rather comprehensive set of install instructions below. While not all of them might be totally necessary for the workshop, they all will help you a great deal going further and are especially useful/needed given we have to hold the workshop virtually due to the COVID-19 pandemic.</p>
 <p>Don’t worry, you got this!</p>
 <p><img alt="logo" src="https://media1.tenor.com/images/f72cb542d6b3e3c3421889e0a3d9628d/tenor.gif?itemid=4533805" /><br />
 <sub><sup><sub><sup><a class="reference external" href="https://media1.tenor.com/images/f72cb542d6b3e3c3421889e0a3d9628d/tenor.gif?itemid=4533805">https://media1.tenor.com/images/f72cb542d6b3e3c3421889e0a3d9628d/tenor.gif?itemid=4533805</a></sup></sub></sup></sub></p>
@@ -567,7 +577,7 @@ are especially useful/needed given we have to hold the workshop virtually due to
 <p>To get the most out of our course, we ask that you arrive with the following software already installed:</p>
 <ul class="simple">
 <li><p>A command-line shell: <code class="docutils literal notranslate"><span class="pre">Bash</span></code></p></li>
-<li><p>A version control system: <code class="docutils literal notranslate"><span class="pre">Git</span></code></p></li>
+<li><p>A version control system: <code class="docutils literal notranslate"><span class="pre">Git</span></code> &amp; <code class="docutils literal notranslate"><span class="pre">DataLad</span></code></p></li>
 <li><p>A remote-capable text editor: <code class="docutils literal notranslate"><span class="pre">VSCode</span></code></p></li>
 <li><p><code class="docutils literal notranslate"><span class="pre">Python</span> <span class="pre">3</span></code> via <code class="docutils literal notranslate"><span class="pre">Miniconda</span></code></p></li>
 <li><p>A virtualization system: <code class="docutils literal notranslate"><span class="pre">Docker</span></code></p></li>
@@ -594,8 +604,8 @@ You <em>must</em> have <code class="docutils literal notranslate"><span class="p
 <h3>OS-specific installation instructions<a class="headerlink" href="#os-specific-installation-instructions" title="Permalink to this headline">¶</a></h3>
 <p>Select the tab that corresponds to your operating system and follow the instructions therein.</p>
 <div class="tabbed-set docutils">
-<input checked="checked" id="02fd4419-6e35-4256-b73e-3ef58adca860" name="e1337a9b-4353-41f9-bd78-c05ab60b592b" type="radio">
-</input><label class="tabbed-label" for="02fd4419-6e35-4256-b73e-3ef58adca860">
+<input checked="checked" id="c867c454-8f65-40ce-971d-b874a78b77a7" name="0146efea-8543-4ee3-b08c-461ba73cc4c9" type="radio">
+</input><label class="tabbed-label" for="c867c454-8f65-40ce-971d-b874a78b77a7">
 Windows</label><div class="tabbed-content docutils">
 <p><strong>Windows Subsystem for Linux (WSL)</strong></p>
 <ol>
@@ -627,6 +637,8 @@ If you have questions during the installation procedure those resources may have
 <p>You already have it, now that you’ve installed the WSL!</p>
 <p><strong>Git</strong></p>
 <p>You already have it, now that you’ve installed the WSL!</p>
+<p><strong>DataLad</strong></p>
+<p>Please follow the <a class="reference external" href="http://handbook.datalad.org/en/latest/intro/installation.html#installation-and-configuration">fantastic install instructions of the <code class="docutils literal notranslate"><span class="pre">DataLad</span> <span class="pre">handbook</span></code></a>.</p>
 <p><strong>VSCode</strong></p>
 <ol class="simple">
 <li><p>Go to <a class="reference external" href="https://code.visualstudio.com/">https://code.visualstudio.com/</a> and click the download button, then run the <code class="docutils literal notranslate"><span class="pre">.exe</span></code> file.</p></li>
@@ -772,8 +784,8 @@ If you are having problems running <code class="docutils literal notranslate"><s
 <p>(The above step-by-step instructions are distilled from <a class="reference external" href="https://docs.docker.com/toolbox/toolbox_install_windows/">here</a> and <a class="reference external" href="https://medium.com/&#64;joaoh82/setting-up-docker-toolbox-for-windows-home-10-and-wsl-to-work-perfectly-2fd34ed41d51">here</a>.
 If you have questions during the installation procedure please check those links for potential answers!)</p>
 </div>
-<input id="a60f0d02-e97a-4010-9e02-3c740962de01" name="e1337a9b-4353-41f9-bd78-c05ab60b592b" type="radio">
-</input><label class="tabbed-label" for="a60f0d02-e97a-4010-9e02-3c740962de01">
+<input id="e0e4525d-5149-4415-966f-c13dca04444e" name="0146efea-8543-4ee3-b08c-461ba73cc4c9" type="radio">
+</input><label class="tabbed-label" for="e0e4525d-5149-4415-966f-c13dca04444e">
 Linux</label><div class="tabbed-content docutils">
 <p><strong>Bash shell</strong></p>
 <p>You already have it!
@@ -787,6 +799,8 @@ If not, whenever the instructions read “open a terminal,” please assume you 
 <p><strong>Git</strong></p>
 <p>You may already have it; try typing <code class="docutils literal notranslate"><span class="pre">sudo</span> <span class="pre">apt-get</span> <span class="pre">install</span> <span class="pre">git</span></code> (Ubuntu, Debian) or <code class="docutils literal notranslate"><span class="pre">sudo</span> <span class="pre">yum</span> <span class="pre">install</span> <span class="pre">git</span></code> (Fedora) inside the <code class="docutils literal notranslate"><span class="pre">terminal</span></code>.
 If you are prompted to install it follow the instructions on-screen to do so.</p>
+<p><strong>DataLad</strong></p>
+<p>Please follow the <a class="reference external" href="http://handbook.datalad.org/en/latest/intro/installation.html#installation-and-configuration">fantastic install instructions of the <code class="docutils literal notranslate"><span class="pre">DataLad</span> <span class="pre">handbook</span></code></a>.</p>
 <p><strong>VSCode</strong></p>
 <ol class="simple">
 <li><p>Go to <a class="reference external" href="https://code.visualstudio.com/">https://code.visualstudio.com/</a> and click the download button for either the .deb (<code class="docutils literal notranslate"><span class="pre">Ubuntu</span></code>, <code class="docutils literal notranslate"><span class="pre">Debian</span></code>) or the .rpm (<code class="docutils literal notranslate"><span class="pre">Fedora</span></code>, <code class="docutils literal notranslate"><span class="pre">CentOS</span></code>) file.</p></li>
@@ -853,8 +867,8 @@ You only need to do the “Manage Docker as a non-root user” and “Configure 
 A brief introductory message should be printed to the screen.</p></li>
 </ol>
 </div>
-<input id="2eef3092-9955-4cbd-a65b-b54c78522b0f" name="e1337a9b-4353-41f9-bd78-c05ab60b592b" type="radio">
-</input><label class="tabbed-label" for="2eef3092-9955-4cbd-a65b-b54c78522b0f">
+<input id="f331d390-33c2-49ff-96be-8d368f57f702" name="0146efea-8543-4ee3-b08c-461ba73cc4c9" type="radio">
+</input><label class="tabbed-label" for="f331d390-33c2-49ff-96be-8d368f57f702">
 MacOs</label><div class="tabbed-content docutils">
 <p><strong>Bash shell</strong></p>
 <p>You already have it!
@@ -875,6 +889,8 @@ If you do not see something like “git version X.XX.X” printed out, then foll
 <li><p>Double click the downloaded file (<code class="docutils literal notranslate"><span class="pre">git-2.23.0-intel-universal-mavericks.dmg</span></code>) and then double click the <code class="docutils literal notranslate"><span class="pre">git-2.23.0-intel-universal-mavericks.pkg</span></code> icon inside the dmg that is opened.</p></li>
 <li><p>Follow the on-screen instructions to install the package.</p></li>
 </ol>
+<p><strong>DataLad</strong></p>
+<p>Please follow the <a class="reference external" href="http://handbook.datalad.org/en/latest/intro/installation.html#installation-and-configuration">fantastic install instructions of the <code class="docutils literal notranslate"><span class="pre">DataLad</span> <span class="pre">handbook</span></code></a>.</p>
 <p><strong>VSCode</strong></p>
 <ol class="simple">
 <li><p>Go to <a class="reference external" href="https://code.visualstudio.com/">https://code.visualstudio.com/</a> and click the download button.</p></li>
@@ -987,8 +1003,8 @@ If you followed these instructions step-by-step and cannot resolve the issue ple
 <p>Now that you have installed the required software (or not) to follow the workshop, it’s time to gather the respective
 materials. Please use the <code class="docutils literal notranslate"><span class="pre">tab</span></code> matching your setup.</p>
 <div class="tabbed-set docutils">
-<input checked="checked" id="a394f4e6-829d-4f1b-a668-18b2de8b8637" name="4a21590d-c4c6-4d9b-be7f-7a5a456fd607" type="radio">
-</input><label class="tabbed-label" for="a394f4e6-829d-4f1b-a668-18b2de8b8637">
+<input checked="checked" id="f31b2a0a-559c-467f-96c7-dd3434ac4352" name="ca82422e-3166-4bbc-9688-92481ff167c1" type="radio">
+</input><label class="tabbed-label" for="f31b2a0a-559c-467f-96c7-dd3434ac4352">
 Docker</label><div class="tabbed-content docutils">
 <p><img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" alt="docker logo" width="300"/><br />
 <sub><sup><sub><sup><a class="reference external" href="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png">https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png</a></sup></sub></sup></sub></p>
@@ -1059,8 +1075,8 @@ docker rm $CONTAINER_ID
 </pre></div>
 </div>
 </div>
-<input id="878d0800-064b-4865-9781-7daa050640b5" name="4a21590d-c4c6-4d9b-be7f-7a5a456fd607" type="radio">
-</input><label class="tabbed-label" for="878d0800-064b-4865-9781-7daa050640b5">
+<input id="168149d1-502c-4313-9ea3-73fd7016864f" name="ca82422e-3166-4bbc-9688-92481ff167c1" type="radio">
+</input><label class="tabbed-label" for="168149d1-502c-4313-9ea3-73fd7016864f">
 Conda</label><div class="tabbed-content docutils">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg" alt="conda logo" width="300"/><br />
 <sub><sup><sub><sup><a class="reference external" href="https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg">https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg</a></sup></sub></sup></sub></p>
@@ -1076,8 +1092,8 @@ Conda</label><div class="tabbed-content docutils">
 <li><p>Finally, via the <code class="docutils literal notranslate"><span class="pre">terminal</span></code>, move to the folder where you’ve put all the unzipped content of this workshop, e.g. with the command <code class="docutils literal notranslate"><span class="pre">cd</span> <span class="pre">~/Desktop/dgpa_workshop</span></code> and run the command <code class="docutils literal notranslate"><span class="pre">jupyter</span> <span class="pre">notebook</span></code>.</p></li>
 </ol>
 </div>
-<input id="f1245569-27c0-424e-b340-792a68bb971e" name="4a21590d-c4c6-4d9b-be7f-7a5a456fd607" type="radio">
-</input><label class="tabbed-label" for="f1245569-27c0-424e-b340-792a68bb971e">
+<input id="3d4ada70-e497-40bb-bd5f-e76319d8929b" name="ca82422e-3166-4bbc-9688-92481ff167c1" type="radio">
+</input><label class="tabbed-label" for="3d4ada70-e497-40bb-bd5f-e76319d8929b">
 Mybinder</label><div class="tabbed-content docutils">
 <p><img src="https://mybinder.org/static/logo.svg?v=fe52c40adc69454ba7536393f76ebd715e5fb75f5feafe16a27c47483eabf3311c14ed9fda905c49915d6dbf369ae68fb855a40dd05489a7b9542a9ee532e92b" alt="binder logo" width="300"/><br />
 <sub><sup><sub><sup><a class="reference external" href="https://mybinder.org/static/logo.svg?v=fe52c40adc69454ba7536393f76ebd715e5fb75f5feafe16a27c47483eabf3311c14ed9fda905c49915d6dbf369ae68fb855a40dd05489a7b9542a9ee532e92b">https://mybinder.org/static/logo.svg?v=fe52c40adc69454ba7536393f76ebd715e5fb75f5feafe16a27c47483eabf3311c14ed9fda905c49915d6dbf369ae68fb855a40dd05489a7b9542a9ee532e92b</a></sup></sub></sup></sub></p>
