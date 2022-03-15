@@ -10,19 +10,21 @@ chapters:
     - file: prerequisites/intro_to_shell.ipynb
     - file: prerequisites/intro_jupyter.ipynb
     - file: prerequisites/intro_python.ipynb
-    - file: prerequisites/python_numpy.ipynb
-    - file: prerequisites/python_scipy.ipynb
-    - file: prerequisites/python_scikit.ipynb
-    - file: prerequisites/python_visualization_for_data.ipynb
-    - file: prerequisites/image_manipulation_nibabel.ipynb
-    - file: prerequisites/image_manipulation_nilearn.ipynb
-    - file: prerequisites/statistical_analyses_MRI.ipynb
-    - file: prerequisites/functional_connectivity.ipynb
-    - file: prerequisites/diffusion_imaging.ipynb
-    - file: prerequisites/machine_learning_preparation.ipynb
-    - file: prerequisites/machine_learning_nilearn.ipynb
-    - file: prerequisites/machine_learning_keras.ipynb
-    - file: prerequisites/Predicting_age_with_machine_learning.ipynb
+- file: add-ons  
+  sections:
+    - file: add-ons/python_numpy.ipynb
+    - file: add-ons/python_scipy.ipynb
+    - file: add-ons/python_scikit.ipynb
+    - file: add-ons/python_visualization_for_data.ipynb
+    - file: add-ons/image_manipulation_nibabel.ipynb
+    - file: add-ons/image_manipulation_nilearn.ipynb
+    - file: add-ons/statistical_analyses_MRI.ipynb
+    - file: add-ons/functional_connectivity.ipynb
+    - file: add-ons/diffusion_imaging.ipynb
+    - file: add-ons/machine_learning_preparation.ipynb
+    - file: add-ons/machine_learning_nilearn.ipynb
+    - file: add-ons/machine_learning_keras.ipynb
+    - file: add-ons/Predicting_age_with_machine_learning.ipynb
 - file: basics
   sections:
   - file: basics/introduction.md
