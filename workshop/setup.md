@@ -39,7 +39,7 @@ To get the most out of our course, we ask that you arrive with the following sof
 - A modern browser
 
 If you already have all of the above software tools/packages installed, or are confident you’ll be able to install them by the time the course starts, you can jump straight to [checking your install](#checking-your-install).
-The rest of this page provides more detail on installation procedures for each of the above elements, with separate instructions for each of the three major operating systems (Windows, Mac OS, and Linux).
+The rest of this page provides more detail on installation procedures for each of the above elements, with separate instructions for each of the three major operating systems (`Windows`, `Mac OS`, and `Linux`).
 
 ### Some quick general notes on instructions
 
@@ -356,10 +356,10 @@ Please follow the [fantastic install instructions of the `DataLad handbook`](htt
    Select the appropriate entry from the dropdown menu that appears (there should be four entries; simply select the one that reads "Extensions: Install extensions").
 1. A new panel should appear on the left-hand side of the screen with a search bar.
    Search for each of the following extensions and press `Install` for the first entry that appears. (The author listed for all of these extensions should be "Microsoft".)
-      - Python (n.b., you will need to reload VSCode after installing this)
-      - Live Share (n.b., you may need to press "Ctrl/Cmd+Shift+P" and type "install extensions" again after installing this)
-      - Live Share Extension Pack
-      - Docker
+      - `Python` (n.b., you will need to reload VSCode after installing this)
+      - `Live Share` (n.b., you may need to press "Ctrl/Cmd+Shift+P" and type "install extensions" again after installing this)
+      - `Live Share Extension Pack`
+      - `Docker`
 
 **Python**
 
