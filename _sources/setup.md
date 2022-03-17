@@ -157,7 +157,7 @@ Which you install will depend on your OS.
 **PLEASE NOTE** that installing `Docker for Windows Desktop` will disable `VirtualBox` on your computer.
 If you actively use `VirtualBox` we recommend you install `Docker Toolbox`.
 
-(Note: the below instructions assume you are installing `Docker Toolbox`.
+(**Note**: the below instructions assume you are installing `Docker Toolbox`.
 Because there are fewer requirements for `Docker Toolbox`, it is likely that you will be able to install this more easily.)
 
 1. Download the latest [Docker Toolbox installer](https://github.com/docker/toolbox/releases/download/v19.03.1/DockerToolbox-19.03.1.exe) (note: that link will automatically download the file)
