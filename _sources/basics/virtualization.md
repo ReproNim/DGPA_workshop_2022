@@ -12,11 +12,6 @@ In the following you'll find the `objectives` and `materials` for each of the to
 - Empower you with tools and technologies to do `reproducible`, `scalable` and `efficient` research
 
 
-- objective 1
-- objective 2
-    - objective 2.1
-    - objective 2.2
-
 #### Materials 📓
 
 You can find the `slides` here or can directly [download]() them:
