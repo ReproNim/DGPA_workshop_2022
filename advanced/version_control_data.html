@@ -421,14 +421,21 @@
   </a>
   <ul class="nav section-nav flex-column">
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#objectives">
-     Objectives 📍
+    <a class="reference internal nav-link" href="#motivation">
+     Motivation
     </a>
-   </li>
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#materials">
-     Materials 📓
-    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#objectives">
+       Objectives 📍
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#materials">
+       Materials 📓
+      </a>
+     </li>
+    </ul>
    </li>
    <li class="toc-h3 nav-item toc-entry">
     <a class="reference internal nav-link" href="#questions-you-should-be-able-to-answer-based-on-this-lecture">
@@ -468,14 +475,21 @@
   </a>
   <ul class="nav section-nav flex-column">
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#objectives">
-     Objectives 📍
+    <a class="reference internal nav-link" href="#motivation">
+     Motivation
     </a>
-   </li>
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#materials">
-     Materials 📓
-    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#objectives">
+       Objectives 📍
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#materials">
+       Materials 📓
+      </a>
+     </li>
+    </ul>
    </li>
    <li class="toc-h3 nav-item toc-entry">
     <a class="reference internal nav-link" href="#questions-you-should-be-able-to-answer-based-on-this-lecture">
@@ -503,21 +517,38 @@
 <div class="section" id="content">
 <h2>Content 💡👩🏽‍🏫<a class="headerlink" href="#content" title="Permalink to this headline">¶</a></h2>
 <p>In the following you’ll find the <code class="docutils literal notranslate"><span class="pre">objectives</span></code> and <code class="docutils literal notranslate"><span class="pre">materials</span></code> for each of the topics we’ll discuss during this session.</p>
+<div class="section" id="motivation">
+<h3>Motivation<a class="headerlink" href="#motivation" title="Permalink to this headline">¶</a></h3>
+<p><a class="reference external" href="https://the-turing-way.netlify.app/reproducible-research/rdm.html">Research Data Management</a> is a core component of good scientific practice and can help to make your work not only more reproducible and transparent but also easier, and version control for data can be one component of it.
+This session introduces <a class="reference external" href="https://datalad.org">DataLad</a>, a data management and data publication tool building up on version control systems.</p>
+<p>If you answer “yes” to any of the following questions, this session will be interesting for you:</p>
+<p>Have you ever worked through such a directory?</p>
+<img src="https://phdcomics.com/comics/archive/phd052810s.gif" alt="A directory filled with almost identical files, differing only by slight name version variations that get increasingly chaotic" style="height: 400px;">
+<p>Is this metaphor fitting to a paper of yours?</p>
+<img src="https://cdn.dribbble.com/users/1218634/screenshots/3090048/full-stack-front-end-back-end-comic-joke.png" alt="A beautiful mermaid fascinating a man, but unknown to the man, the hidden back of the mermaid is a monster - A metaphor for papers (the beautiful mermaid) and their project directories (the hidden horror)" style="height: 360px;">
+<p>Have you ever looked like this trying to figure out how a colleagues script is supposed to work (or an old script of yourself)?</p>
+<img src="https://phdcomics.com/comics/archive/phd012805s.gif" alt="A researcher pulling her hair over futil attempts to understand and run something on a computer" style="width: 480px;">
+<p>Do you find yourself wondering how to share or publish the data and results of your recent project?</p>
+<img src="https://www.socialsciencespace.com/wp-content/uploads/625px-To_deposit_or_not_to_deposit_that_is_the_question_-_journal.pbio_.1001779.g001.png" alt="An explorer carrying a large data box to a sign pointing at a data repository" style="width: 480px;">
 <div class="section" id="objectives">
-<h3>Objectives 📍<a class="headerlink" href="#objectives" title="Permalink to this headline">¶</a></h3>
+<h4>Objectives 📍<a class="headerlink" href="#objectives" title="Permalink to this headline">¶</a></h4>
 <ul class="simple">
-<li><p>objective 1</p></li>
-<li><p>objective 2</p>
+<li><p>Understand why we should not only version control code and other small files, but also data or software</p></li>
+<li><p>Understand the advantages of distributed version control for data</p></li>
+<li><p>Get first-hand usage experience with DataLad, and master the following DataLad concepts:</p>
 <ul>
-<li><p>objective 2.1</p></li>
-<li><p>objective 2.2</p></li>
+<li><p>Create and consume datasets</p></li>
+<li><p>Perform version control on arbitrarily sized digital objects</p></li>
+<li><p>Link components of a data analysis (code, data, software) together</p></li>
+<li><p>Run and rerun computationally reproducible data analyses</p></li>
 </ul>
 </li>
 </ul>
 </div>
 <div class="section" id="materials">
-<h3>Materials 📓<a class="headerlink" href="#materials" title="Permalink to this headline">¶</a></h3>
-<p>You can find the <code class="docutils literal notranslate"><span class="pre">slides</span></code> here or can directly <a class="reference internal" href="../advanced.html"><span class="doc std std-doc">download</span></a> them:</p>
+<h4>Materials 📓<a class="headerlink" href="#materials" title="Permalink to this headline">¶</a></h4>
+<p>You can find the <code class="docutils literal notranslate"><span class="pre">slides</span></code> <a class="reference external" href="https://github.com/datalad-handbook/course">here</a> or you can directly <a class="reference external" href="https://doi.org/10.5281/zenodo.6364571">download</a> them from Zenodo.</p>
+</div>
 </div>
 <div class="section" id="questions-you-should-be-able-to-answer-based-on-this-lecture">
 <h3>Questions you should be able to answer based on this lecture 🖥️✍🏽📖<a class="headerlink" href="#questions-you-should-be-able-to-answer-based-on-this-lecture" title="Permalink to this headline">¶</a></h3>
@@ -528,6 +559,14 @@
 </div>
 <div class="section" id="optional-reading-further-materials">
 <h3>optional reading/further materials<a class="headerlink" href="#optional-reading-further-materials" title="Permalink to this headline">¶</a></h3>
+<p>If you want to learn more about DataLad or research data management in general, there are several major resources:</p>
+<ul class="simple">
+<li><p>📙 <a class="reference external" href="http://handbook.datalad.org/en/latest/">The DataLad Handbook</a></p></li>
+<li><p>📺 <a class="reference external" href="https://www.youtube.com/c/DataLad">The DataLad Youtube channel</a></p></li>
+<li><p>🙋 <a class="reference external" href="https://neurostars.org/search?q=datalad%20category%3A1">Technical forum</a></p></li>
+<li><p>💬 <a class="reference external" href="https://matrix.to/#/#datalad:matrix.org">Community chat</a></p></li>
+</ul>
+<p>Additionally, you can find an overview of recorded workshops and past tutorials at <a class="reference external" href="https://github.com/datalad/tutorials">github.com/datalad/tutorials</a>.</p>
 </div>
 </div>
 </div>
