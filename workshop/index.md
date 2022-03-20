@@ -62,4 +62,4 @@ In case you have any questions or difficulties going through the workshop, pleas
 
 ## 🙏  Acknowledgements
 
-This workshop was initialized by the [DGPA]() and organized by the [DGPA])() and [ReproNim]().
+This workshop was initialized by the [DGPA](https://dgpa.de/) and organized by the [DGPA](https://dgpa.de/) and [ReproNim](https://www.repronim.org/).
