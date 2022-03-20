@@ -21,7 +21,7 @@ In the following you'll find the `objectives` and `materials` for each of the to
 
 You can find the `introduction slides` below or can directly [download](https://docs.google.com/presentation/d/1V8isbmxYwRBRrz1avViFZYEeKOmzQQq9_Y3mWycGfVo/present?usp=sharing) them:
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSh9f918rvaKWOTOVRLD0At2o6AN99nVIQvkqagVBdKTmG5jR1wXQtxPc5Eei4NzBxCmY_ssw-EhlSr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSh9f918rvaKWOTOVRLD0At2o6AN99nVIQvkqagVBdKTmG5jR1wXQtxPc5Eei4NzBxCmY_ssw-EhlSr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="760" height="469" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### optional reading/further materials
 
