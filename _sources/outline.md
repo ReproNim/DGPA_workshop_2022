@@ -24,7 +24,7 @@ Our **very optimistic** schedule looks as follows (all times in CET):
 | 1:15 - 2 PM |  [Reproducibility in Neuroimaging - an introduction]() 💡👩🏽‍🏫  | [JB Poline]() |
 | 2:15 - 3:15 PM |  [Version control - code]() 💡👩🏽‍🏫 👨🏻‍💻🧑🏾‍💻 | [Dorota Jarecka]()  |
 | 3:15 - 5 PM |  [Virtualization of computing environments]() 💡👩🏽‍🏫 👨🏻‍💻🧑🏾‍💻 | [Peer Herholz]() |
-| 5:15 - 6 PM |  [Standardization in Neuroimaging]() 💡👩🏽‍🏫 (👨🏻‍💻🧑🏾‍💻) | []() |
+| 5:15 - 6 PM |  [Standardization in Neuroimaging]() 💡👩🏽‍🏫 (👨🏻‍💻🧑🏾‍💻) | [Guiomar Niso]() |
 
 
 #### Session 2 - 23/02/2022 - Advanced concepts in reproducible neuroimaging
