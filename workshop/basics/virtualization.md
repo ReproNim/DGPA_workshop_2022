@@ -31,7 +31,15 @@ The `scripts` entail a `python script` called `fancy_DTI_analyses.py` which will
 
 [virtualization_commands.sh]()
 
-Please make sure to get them on way or the other and place them on your `Desktop` for easy access. 
+Please make sure to get them on way or the other and place them on your `Desktop` for easy access. Also, you might want to download the `Docker image` we are going to `build` during the session in advance to have it ready to go. You can find it below:
+
+[![Docker image](https://img.shields.io/docker/pulls/peerherholz/millennium_falcon)](https://hub.docker.com/r/peerherholz/millennium_falcon)
+
+and download it via:
+
+```
+docker pull peerherholz/millennium_falcon:v0.0.1
+```
 
 ### Questions you should be able to answer based on this lecture 🖥️✍🏽📖
 
