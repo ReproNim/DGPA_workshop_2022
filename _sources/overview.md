@@ -9,6 +9,55 @@ All workshop materials will be provided within the [Jupyter Book](https://jupyte
 
 ## Instructors
 
+To provide a holistic introduction into the topic of `reproducible neuroimaging` and its subcomponents, we assembled a stellar team of instructors entailing highly experience experts of both the `ReproNim` team as well as colleagues from adjacent initiatives. You can find them below and get further information via clicking on the respective names. 
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/guiomar">
+        <img src="https://avatars.githubusercontent.com/u/4451818?v=4" width="100px;" alt=""/>
+        <br /><sub><b>Guiomar Niso</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/djarecka">
+        <img src="https://www.abcd-repronim.org/assets/img/gallery-90-13-rev2.jpg" width="100px;" alt=""/>
+        <br /><sub><b>Dorota Jarecka (she/her)</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dnkennedy">
+        <img src="https://www.abcd-repronim.org/assets/img/gallery-90-2-rev2.jpg" width="100px;" alt=""/>
+        <br /><sub><b>David Kennedy (he/him)</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jbpoline">
+        <img src="https://www.abcd-repronim.org/assets/img/gallery-90-4-rev2.jpg" width="100px;" alt=""/>
+        <br /><sub><b>Jean-Baptiste Poline (he/him)</b></sub>
+      </a>
+    </td>  
+    <td align="center">
+      <a href="https://github.com/adswa">
+        <img src="https://avatars.githubusercontent.com/u/29738718?s=96&v=4" width="100px;" alt=""/>
+        <br /><sub><b>Adina Wagner (she/her)</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/surchs">
+        <img src="https://avatars.githubusercontent.com/u/1302022?v=4" width="100px;" alt=""/>
+        <br /><sub><b>Sebastian Urchs (he/him)</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/PeerHerholz">
+        <img src="https://avatars.githubusercontent.com/u/20129524?s=96&v=4" width="100px;" alt=""/>
+        <br /><sub><b>Peer Herholz (he/him)</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ```{admonition} How to address one another?
 :class: dropdown
