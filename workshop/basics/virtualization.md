@@ -51,7 +51,7 @@ docker pull peerherholz/millennium_falcon:v0.0.1
 :::{admonition} What types of `virtualization` do exist?
 :class: tip, dropdown
 There are `three main levels` of `virtualization` as summarized below:
-<img src="https://raw.githubusercontent.com/ReproNim/DGPA_workshop_2022/main/workshop/static/virtualization_levels.png" alt="Virtualization Levels" style="height: 200px;">
+<img src="https://raw.githubusercontent.com/ReproNim/DGPA_workshop_2022/main/workshop/static/virtualization_levels.png" alt="Virtualization Levels" style="height: 300px;">
 :::
 
 
