@@ -27,9 +27,9 @@ As mentioned above, we will have a set of different materials for this `session`
 
 The `scripts` entail a `python script` called `fancy_DTI_analyses.py` which will be the example on which we will explore `virtualization` and `virtualization_commands.sh` which is a `bash script` that contains all `commands` we are going to run during the session so that you can easily copy-paste them/have them on file in case you missed something. You can find them in the [GitHub repository of this workshop](https://github.com/ReproNim/DGPA_workshop_2022/tree/main/workshop/basics/scripts_virtualization) or download them below:
 
-[fancy_DTI_analyses.py]()
+[fancy_DTI_analyses.py](https://www.dropbox.com/s/r262fhsudso10qv/fancy_DTI_analyzes.py?dl=1)
 
-[virtualization_commands.sh]()
+[virtualization_commands.sh](https://www.dropbox.com/s/d1ntvquhdosndkh/virtualization_commands.sh?dl=1)
 
 Please make sure to get them on way or the other and place them on your `Desktop` for easy access. Also, you might want to download the `Docker image` we are going to `build` during the session in advance to have it ready to go. You can find it below:
 
