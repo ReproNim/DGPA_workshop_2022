@@ -25,3 +25,17 @@ You can find the `introduction slides` below or can directly [download](https://
 
 ### optional reading/further materials
 
+Please make sure to check the [ReproNim website](https://www.repronim.org/) for further information, materials, etc. .
+
+<iframe src="https://www.repronim.org/" frameborder="0" width="700" height="370"></iframe>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+For a nice over of the `ReproNim perspective`, please have a look at the 2019 article [Everything Matters: The ReproNim Perspective on Reproducible Neuroimaging](https://doi.org/10.3389/fninf.2019.00001).
+
+<iframe src="https://www.frontiersin.org/articles/10.3389/fninf.2019.00001/full?utm_source=FRN&utm_medium=EMAIL_IRIS&utm_campaign=EMI_FRN_ARTICLEPUBLISHED_COAUTHORS&utm_content=ARTICLE_TITLE" frameborder="0" width="700" height="370"></iframe>
