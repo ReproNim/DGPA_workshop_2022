@@ -1,4 +1,4 @@
-# Course prerequisites & add-ons 
+# Course prerequisites
 
 
 ## Ain't no workshop good enough
