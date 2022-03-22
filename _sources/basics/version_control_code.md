@@ -1,4 +1,13 @@
-# Version control - code
+# Version control - intro
+
+Each and every project depends on a large amount of files, no matter if `documentation`, `notes` or `analyses scripts`. All of them will change more or less prominently during the project and your research workflows: `updates`, `deletions`, etc. . If not taken care of, all these changes to all these files can result in tremendous problems concerning `data management` and `reproducibility`. Just imagine you're trying out a few new things in your `analysis scripts` and after trying to rerun the things you did some days ago nothing works anymore... At what point did you change what aspects, when did it break, what happened? What keeping track of changes, there's no way to recover this information.
+
+<center>
+<img src="https://pbs.twimg.com/media/EiG-dwJVkAA-J0L.jpg" alt="data standardization" style="height: 300px;">
+</center>
+
+What most folks is to have multiple versions of the same files simultaneously, using file names to indicate or refer to a certain status. However, this is very cumbersome and also prone to errors. A fantastic alternative is to use [version control]() 
+
 
 ## Content 💡👩🏽‍🏫  
 
@@ -16,8 +25,6 @@ In the following you'll find the `objectives` and `materials` for each of the to
 #### Materials 📓
 
 You can find the `slides` [here](https://www.dropbox.com/s/xgey7kau40l397v/EuropeReproNim-Git.pdf?dl=0) or [download them directly.](https://www.dropbox.com/s/xgey7kau40l397v/EuropeReproNim-Git.pdf?dl=1)
-
-<iframe src="https://github.com/ReproNim/DGPA_workshop_2022/blob/main/workshop/basics/EuropeReproNim-Git.pdf" frameborder="0" width="760" height="469" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Questions you should be able to answer based on this lecture 🖥️✍🏽📖
 

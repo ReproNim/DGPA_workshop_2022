@@ -41,8 +41,6 @@ Do you find yourself wondering how to share or publish the data and results of y
 You can find the `slides` [here](https://github.com/datalad-handbook/course) or you can directly [download](https://doi.org/10.5281/zenodo.6364571) them from Zenodo.
 
 
-<iframe src="https://zenodo.org/record/6364571#.YjmIIJrMLlw" frameborder="0" width="760" height="469" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
 ### Questions you should be able to answer based on this lecture 🖥️✍🏽📖
 
 :::{admonition} Why should you version control data?
