@@ -15,9 +15,9 @@ In the following you'll find the `objectives` and `materials` for each of the to
 
 #### Materials 📓
 
-You can find the `slides` [here](https://www.dropbox.com/s/xgey7kau40l397v/EuropeReproNim-Git.pdf?dl=0)
+You can find the `slides` [here](https://www.dropbox.com/s/xgey7kau40l397v/EuropeReproNim-Git.pdf?dl=0) or [download directly](https://www.dropbox.com/s/xgey7kau40l397v/EuropeReproNim-Git.pdf?dl=1)
 
-<embed src="https://www.dropbox.com/s/xgey7kau40l397v/EuropeReproNim-Git.pdf?dl=0" type="application/pdf">
+<embed src="https://www.dropbox.com/s/xgey7kau40l397v/EuropeReproNim-Git.pdf?dl=1" type="application/pdf">
 
 
 ### Questions you should be able to answer based on this lecture 🖥️✍🏽📖
