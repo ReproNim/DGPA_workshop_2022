@@ -5,18 +5,19 @@
 In the following you'll find the `objectives` and `materials` for each of the topics we'll discuss during this session.
 
 #### Objectives 📍
-- Learn about Version Control Systems
-- Learn about Git
-- Experience working with Git:
-    - creating new repository
+- Learn about `Version Control Systems`
+- Learn about `Git`
+- Get first experience working with `Git`:
+    - creating a new repository
     - adding and modifying files
     - working with branches
-- Learn about remotes and GitHub
+- Learn about remotes and `GitHub`
 
 #### Materials 📓
 
-You can find the `slides` [here](https://www.dropbox.com/s/xgey7kau40l397v/EuropeReproNim-Git.pdf?dl=0) or [download directly](https://www.dropbox.com/s/xgey7kau40l397v/EuropeReproNim-Git.pdf?dl=1)
+You can find the `slides` [here](https://www.dropbox.com/s/xgey7kau40l397v/EuropeReproNim-Git.pdf?dl=0) or [download them directly.](https://www.dropbox.com/s/xgey7kau40l397v/EuropeReproNim-Git.pdf?dl=1)
 
+<iframe src="https://github.com/ReproNim/DGPA_workshop_2022/blob/main/workshop/basics/EuropeReproNim-Git.pdf" frameborder="0" width="760" height="469" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Questions you should be able to answer based on this lecture 🖥️✍🏽📖
 
