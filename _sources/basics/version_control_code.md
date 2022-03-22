@@ -17,14 +17,16 @@ In the following you'll find the `objectives` and `materials` for each of the to
 - Learn about `Version Control Systems`
 - Learn about `Git`
 - Get first experience working with `Git`:
-    - creating a new repository
-    - adding and modifying files
-    - working with branches
+    - creating a new `repository`
+    - `adding` and `modifying` files
+    - working with `branches`
 - Learn about remotes and `GitHub`
 
 #### Materials 📓
 
 You can find the `slides` [here](https://www.dropbox.com/s/xgey7kau40l397v/EuropeReproNim-Git.pdf?dl=0) or [download them directly.](https://www.dropbox.com/s/xgey7kau40l397v/EuropeReproNim-Git.pdf?dl=1)
+
+As with the remaining sessions, the recording will be added in a bit.
 
 ### Questions you should be able to answer based on this lecture 🖥️✍🏽📖
 
