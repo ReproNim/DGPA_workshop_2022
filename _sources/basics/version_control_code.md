@@ -6,12 +6,12 @@ Each and every project depends on a large amount of files, no matter if `documen
 <img src="https://pbs.twimg.com/media/EiG-dwJVkAA-J0L.jpg" alt="data standardization" style="height: 300px;">
 </center>
 
-What most folks is to have multiple versions of the same files simultaneously, using file names to indicate or refer to a certain status. However, this is very cumbersome and also prone to errors. A fantastic alternative is to use [version control]() 
+What most folks is to have multiple versions of the same files simultaneously, using file names to indicate or refer to a certain status. However, this is very cumbersome and also prone to errors. A fantastic alternative is to use an approach called [version control](https://en.wikipedia.org/wiki/Version_control) that allows you to keep track of changes to basically any file, recover previous versions, collaborative editing and much more. Within this session, we will discuss the basics and start to explore one of the central tools, [git](https://en.wikipedia.org/wiki/Git), as well as resources that build upon it, i.e. [GitHub](https://github.com/).  
 
 
 ## Content 💡👩🏽‍🏫  
 
-In the following you'll find the `objectives` and `materials` for each of the topics we'll discuss during this session.
+In the following you'll find the `objectives` and `materials` for each of the topics we'll discuss during this session. The main materials will be a `slide` deck that entails the respective information and practical hands-on sections.
 
 #### Objectives 📍
 - Learn about `Version Control Systems`
