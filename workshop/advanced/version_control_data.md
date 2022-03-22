@@ -43,9 +43,10 @@ You can find the `slides` [here](https://github.com/datalad-handbook/course) or 
 
 ### Questions you should be able to answer based on this lecture 🖥️✍🏽📖
 
-:::{admonition} Question 1
+:::{admonition} Why should you version control data?
 :class: tip, dropdown
-Provide answer here
+Data changes and evolves just like code or other text-based files. Version controlling data does not only structure your projects transparently, it also provides the basis for reproducibility as it helps you to identify data in its precise version.
+And just as code or manuscripts are often collaborative endeavours that benefit from the features of distributed version control tools, data analyses or publishing data are collaborative projects that become easier with streamlined processes for collaboration, too.
 :::
 
 
