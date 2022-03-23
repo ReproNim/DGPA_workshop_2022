@@ -18,16 +18,11 @@ In the following you'll find the `objectives` and `materials` for each of the to
 
 #### Materials 📓
 
-You can find the `slides` here or can directly [download]() them:
-
-
-### Questions you should be able to answer based on this lecture 🖥️✍🏽📖
-
-:::{admonition} Question 1
-:class: tip, dropdown
-Provide answer here
-:::
-
+You can find the `slides` [here](https://drive.google.com/file/d/1R6At-xyj_wq0Vm90EfzeO7unITJTIIlf/view) or can directly [download](https://drive.google.com/file/d/1R6At-xyj_wq0Vm90EfzeO7unITJTIIlf/view) them:
 
 ### optional reading/further materials
 
+- [ReproNim training materials](https://www.repronim.org/teach.html)
+- [Neurostars](https://neurostars.org/)
+- [OHBM Aperture](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4009)
+- [Neurolibre](https://www.neurolibre.com/)

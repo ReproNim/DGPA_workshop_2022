@@ -37,3 +37,7 @@ Provide answer here
 
 ### optional reading/further materials
 
+- [BIDS website](https://bids.neuroimaging.io/)
+- [BIDS specification](https://bids-specification.readthedocs.io/en/stable/)
+- [BIDS BEPs](https://bids.neuroimaging.io/get_involved.html)
+- [BIDS Apps](https://bids-apps.neuroimaging.io/)
