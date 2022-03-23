@@ -15,6 +15,7 @@ In the following you'll find the `objectives` and `materials` for each of the to
 You can find the `slides` here or can directly [download](https://docs.google.com/presentation/d/1A_DtiSdvxXBA4ZaO4lTn2jda_1EYbhUFvgmPd0MFUxE/edit?usp=sharing) them:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSc-ZeWjILVPmssjBH3AX6im63Oygl5NCVsPVCJdWafdfq6Lkoc5jvtmelh62_6hYogmUFvgobCjYSR/embed?start=false&loop=false&delayms=3000" frameborder="0" width="760" height="469" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ### Questions you should be able to answer based on this lecture 🖥️✍🏽📖
 
 :::{admonition} What is the purpose of data dictionaries
