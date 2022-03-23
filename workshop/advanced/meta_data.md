@@ -5,16 +5,16 @@
 In the following you'll find the `objectives` and `materials` for each of the topics we'll discuss during this session.
 
 #### Objectives 📍
-- what are metadata and why are they important
+    - what are metadata and why are they important
 - what makes good metadata
 - what do we get for all our troubles of making good metadata
 - how can you make good metadata
 
 #### Materials 📓
 
-You can find the `slides` here or can directly [download]() them:
+You can find the `slides` here or can directly [download](https://docs.google.com/presentation/d/1A_DtiSdvxXBA4ZaO4lTn2jda_1EYbhUFvgmPd0MFUxE/edit?usp=sharing) them:
 
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSc-ZeWjILVPmssjBH3AX6im63Oygl5NCVsPVCJdWafdfq6Lkoc5jvtmelh62_6hYogmUFvgobCjYSR/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 ### Questions you should be able to answer based on this lecture 🖥️✍🏽📖
 
 :::{admonition} What is the purpose of data dictionaries
